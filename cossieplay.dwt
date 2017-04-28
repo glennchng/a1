@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CossiePlay</title>
+<style type="text/css">
+	.wrapper{
+		width: 730px;
+	    margin-right: auto;
+		margin-left: auto;
+		background-color:saddlebrown;
+		opacity: 0.8;
+	}
+
+</style>
+<link href="cossieplay.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="t1">
+<table width="20%" border="1" bordercolor="#9901FF" align="right" cellspacing="15">
+  <tbody>
+    <tr>
+      <th width="80%" scope="col"><strong> What we sell</strong></th>
+    </tr>
+    <tr>
+      <th width="80%" scope="col"><strong>Sign Up now!</strong></th>
+    </tr>
+  </tbody>
+</table></div>
+<p id="banner"><strong><em>Cossie Play</em></strong></p>
+<div id="navigation">
+ <ul>
+ <table width="60%" border="0" align="center" cellspacing="10">
+  <tbody>
+    <tr bgcolor="#F4CDCD">
+      <th height="65" scope="col">Home</th>
+      <th nowrap scope="col">About Us</th>
+      <th scope="col">Announcements</th>
+      <th scope="col">Contact</th>
+    </tr>
+  </tbody>
+    </table>
+</ul>
+</div>
+<!-- TemplateBeginEditable name="content" -->
+<div id="container" class="wrapper">Welcome</div>
+<div id="content" class="wrapper">content</div>
+<!-- TemplateEndEditable -->
+</body>
+</html>
